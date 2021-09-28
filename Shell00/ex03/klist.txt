@@ -1,0 +1,5 @@
+Credentials cache: API:D2A95B71-A178-430C-A599-E134F93EC420
+        Principal: eamirbek@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Sep  8 17:39:59 2021  Sep  9 03:39:48 2021  krbtgt/42YEREVAN.AM@42YEREVAN.AM
